@@ -1,0 +1,12 @@
+DateTime,EventCode,EventDescription,OperatorId,Details
+2026-10-26T16:26:13.759Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: Primary Robotic Welding Cell 1"
+2026-10-26T16:26:21.320Z,EVT_AUTO_COMPLETE,"Cell production run successfully completed",AUTO_OP_01,""
+2026-10-26T16:35:51.583Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: Primary Robotic Welding Cell 1"
+2026-10-26T16:35:59.117Z,EVT_AUTO_COMPLETE,"Cell production run successfully completed",AUTO_OP_01,""
+2026-10-26T16:41:39.625Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: Primary Robotic Welding Cell 1"
+2026-10-26T16:41:47.157Z,EVT_AUTO_COMPLETE,"Cell production run successfully completed",AUTO_OP_01,""
+2026-10-26T17:00:51.853Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: Primary Robotic Welding Cell 1"
+2026-10-26T17:00:59.401Z,EVT_AUTO_COMPLETE,"Cell production run successfully completed",AUTO_OP_01,""
+2026-10-26T17:01:39.195Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: Primary Robotic Welding Cell 1"
+2026-10-26T17:01:43.616Z,EVT_ALARM_FAULT,"Production faulted: Simulation stopped during weld bead.",AUTO_OP_01,""
+2026-10-26T17:04:14.752Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: hgyfy"

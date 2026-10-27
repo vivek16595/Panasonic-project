@@ -1,0 +1,3 @@
+DateTime,EventCode,EventDescription,OperatorId,Details
+2026-10-26T16:25:41.879Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: Primary Robotic Welding Cell 1"
+2026-10-26T16:25:42.135Z,EVT_AUTO_COMPLETE,"Cell production run successfully completed",AUTO_OP_01,""

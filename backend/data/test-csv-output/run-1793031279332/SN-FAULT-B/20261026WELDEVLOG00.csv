@@ -1,0 +1,2 @@
+DateTime,WorkSN,ProgramNo,SubProgramNo,BeadNo,ArcTimeSec,AvgCurrentA,AvgVoltageV,WireSpeedMPerMin,GasFlowLPerMin,Status,ErrorCode
+2026-10-26T16:14:40.248Z,W031280028,PRG-FB,SUB-1,1,0.10,179.9,22.1,7.0,14.0,OK,0000

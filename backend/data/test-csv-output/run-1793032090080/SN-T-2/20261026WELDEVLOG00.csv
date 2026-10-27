@@ -1,0 +1,2 @@
+DateTime,WorkSN,ProgramNo,SubProgramNo,BeadNo,ArcTimeSec,AvgCurrentA,AvgVoltageV,WireSpeedMPerMin,GasFlowLPerMin,Status,ErrorCode
+2026-10-26T16:28:10.376Z,W032090338,P2,S1,1,0.05,200.0,24.1,8.0,15.0,OK,0000

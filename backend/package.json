@@ -1,0 +1,27 @@
+{
+  "name": "welding-simulator-backend",
+  "version": "1.0.0",
+  "description": "Welding Shop-Floor Simulator Backend with Fastify, WebSockets, WAMP and Panasonic CSV Writer",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "@fastify/static": "^7.0.4",
+    "@fastify/websocket": "^10.0.1",
+    "fastify": "^4.28.1",
+    "welding-shop-floor-simulator": "file:..",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/ws": "^8.5.10",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.2",
+    "vitest": "^1.6.0"
+  }
+}

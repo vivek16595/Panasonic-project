@@ -1,0 +1,2 @@
+DateTime,EventCode,EventDescription,OperatorId,Details
+2026-10-26T17:04:14.755Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: hgyfy"

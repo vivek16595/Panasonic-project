@@ -1,0 +1,2 @@
+DateTime,EventCode,EventDescription,OperatorId,Details
+2026-10-26T16:14:40.361Z,EVT_POWER_ON,"Controller powered on",AUTO_OP_01,""

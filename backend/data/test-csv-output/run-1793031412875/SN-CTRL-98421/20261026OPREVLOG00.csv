@@ -1,0 +1,3 @@
+DateTime,EventCode,EventDescription,OperatorId,Details
+2026-10-26T16:16:52.876Z,EVT_AUTO_START,"Automatic cell production started",AUTO_OP_01,"Cell: Primary Robotic Welding Cell 1"
+2026-10-26T16:16:52.954Z,EVT_ALARM_FAULT,"Production faulted: Disk full / write I/O error",AUTO_OP_01,""
